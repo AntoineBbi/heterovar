@@ -4,8 +4,7 @@ Version: 0.0.0.9000
 Authors@R: 
     person("Antoine", "Barbieri", , "antoine.barbieri@u-bordeaux.fr", role = c("aut", "cre"),
            comment = c(ORCID = "https://orcid.org/0000-0001-5226-5631"))
-    person("Léonie", "Courcoul", , "Léonie.Courcoul@u-bordeaux.fr", role = c("aut", "cre"),
-           comment = c(ORCID = "https://orcid.org/0000-0001-5226-5631"))
+    person("Léonie", "Courcoul", , "Léonie.Courcoul@u-bordeaux.fr", role = c("aut", "cre"))
 Description: heterovar allows to generate dataset from a joint model for longitudinal and time-to-event data. Note that longitudinal data are generated from a linear mixed model including time-dependent and subject-specific variability for measurment errors. The risk to develop the event depends of both the current value and current variability of longitudinal marker. 
 License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a license
 Encoding: UTF-8
